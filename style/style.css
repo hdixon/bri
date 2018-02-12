@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Druk;
+  src: url(/Druk-BoldItalic-Web.ttf);
+}
+
+@font-face {
+  font-family: VT323;
+  src: url("/VT323.ttf");
+}
+
+body, html {
+  background: #eee;
+  height: 100%;
+}
+
+.site-header {
+  height: 60%;
+  min-height: 400px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+article {
+  width: 100%;
+  /* font-size: 2em; */
+}
+
+# briefsummary {
+  /* font-family: Druk, VT323, VT323, Consolas, monaco, monospace, sans-serif; */
+}
